@@ -1,0 +1,5 @@
+pymongo
+sqlalchemy<2.0.0
+psycopg2-binary
+psycopg2
+vaderSentiment
